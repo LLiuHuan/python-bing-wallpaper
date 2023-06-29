@@ -19,7 +19,10 @@ jobs:
         cache: 'pip'
         python-version: 3.7
         token: ${{ github.token }} # optional, default is ${{ github.token }}
-
+     - name: pip install
+       run: |
+         pip install -r requirements.txt
+         
      - name: Download
        run: |
         python main.py
