@@ -1,0 +1,33 @@
+name: update-bing-walpaper
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  push:
+    branches: [ master ]
+
+jobs:
+  push-bing:
+    runs-on: ubuntu-latest
+    steps:
+     - name: Checkout
+       uses: actions/checkout@master
+    
+     - name: Set up Python
+       uses: actions/setup-python@v1
+       with:
+        cache: 'pip'
+        python-version: 3.7
+        token: ${{ github.token }} # optional, default is ${{ github.token }}
+
+     - name: Download
+       run: |
+        python main.py
+        
+     - name: Cmmit files
+       run: |
+         git config --global user.email "lliuhuan@0x3.cn"
+         git config --global user.name "LLiuHuan"
+         git add -A
+         git commit --allow-empty -m "Update Bing Wallpaper"
+         git push origin master
