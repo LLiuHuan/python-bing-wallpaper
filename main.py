@@ -7,6 +7,7 @@ from datetime import datetime
 import requests
 
 import bing_image
+from fileUtils import writeToReadme
 
 
 def main():
@@ -38,3 +39,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    writeToReadme()
