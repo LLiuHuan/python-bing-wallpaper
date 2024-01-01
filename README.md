@@ -10,14 +10,14 @@ Python 每日爬取Bing壁纸，保存到本地，同时将最近30天的图片�
 ## 今日图片
 
 
-![](./images/2024/01/01/SleepingFox_ZH-CN2622967726_1920x1080_2024-01-01.jpg)2024/01/01 [download](./images/2024/01/01/SleepingFox_ZH-CN2622967726_1920x1080_2024-01-01.jpg)
+![](./images/2024/01/01/MehrangarhJodhpur_ZH-CN2855490711_1920x1080_2024-01-01.jpg)2024/01/01 [download](./images/2024/01/01/MehrangarhJodhpur_ZH-CN2855490711_1920x1080_2024-01-01.jpg)
 
 ## 最近30天的图片链接
 
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](./images/2024/01/01/SleepingFox_ZH-CN2622967726_1920x1080_2024-01-01.jpg)2024/01/01 [download](./images/2024/01/01/SleepingFox_ZH-CN2622967726_1920x1080_2024-01-01.jpg)|![](./images/2023/12/31/ThailandNewYears_ZH-CN2058192262_1920x1080_2023-12-31.jpg)2023/12/31 [download](./images/2023/12/31/ThailandNewYears_ZH-CN2058192262_1920x1080_2023-12-31.jpg)|![](./images/2023/12/29/BlueAmsterdam_ZH-CN0483591394_1920x1080_2023-12-29.jpg)2023/12/29 [download](./images/2023/12/29/BlueAmsterdam_ZH-CN0483591394_1920x1080_2023-12-29.jpg)|
+|![](./images/2024/01/01/MehrangarhJodhpur_ZH-CN2855490711_1920x1080_2024-01-01.jpg)2024/01/01 [download](./images/2024/01/01/MehrangarhJodhpur_ZH-CN2855490711_1920x1080_2024-01-01.jpg)|![](./images/2023/12/31/ThailandNewYears_ZH-CN2058192262_1920x1080_2023-12-31.jpg)2023/12/31 [download](./images/2023/12/31/ThailandNewYears_ZH-CN2058192262_1920x1080_2023-12-31.jpg)|![](./images/2023/12/29/BlueAmsterdam_ZH-CN0483591394_1920x1080_2023-12-29.jpg)2023/12/29 [download](./images/2023/12/29/BlueAmsterdam_ZH-CN0483591394_1920x1080_2023-12-29.jpg)|
 |![](./images/2023/12/28/GreenlandHumpback_ZH-CN8145852053_1920x1080_2023-12-28.jpg)2023/12/28 [download](./images/2023/12/28/GreenlandHumpback_ZH-CN8145852053_1920x1080_2023-12-28.jpg)|![](./images/2023/12/27/KirkjufellAurora_ZH-CN7878752057_1920x1080_2023-12-27.jpg)2023/12/27 [download](./images/2023/12/27/KirkjufellAurora_ZH-CN7878752057_1920x1080_2023-12-27.jpg)|![](./images/2023/12/26/BoxingDaySunrise_ZH-CN7431512686_1920x1080_2023-12-26.jpg)2023/12/26 [download](./images/2023/12/26/BoxingDaySunrise_ZH-CN7431512686_1920x1080_2023-12-26.jpg)|
 |![](./images/2023/12/25/CaribouChristmas_ZH-CN6264028572_1920x1080_2023-12-25.jpg)2023/12/25 [download](./images/2023/12/25/CaribouChristmas_ZH-CN6264028572_1920x1080_2023-12-25.jpg)|![](./images/2023/12/24/EstoniaXmasEve_ZH-CN5870799404_1920x1080_2023-12-24.jpg)2023/12/24 [download](./images/2023/12/24/EstoniaXmasEve_ZH-CN5870799404_1920x1080_2023-12-24.jpg)|![](./images/2023/12/23/FestivusPenguins_ZH-CN5191348531_1920x1080_2023-12-23.jpg)2023/12/23 [download](./images/2023/12/23/FestivusPenguins_ZH-CN5191348531_1920x1080_2023-12-23.jpg)|
 |![](./images/2023/12/22/WinterSolstice2023_ZH-CN4450201916_1920x1080_2023-12-22.jpg)2023/12/22 [download](./images/2023/12/22/WinterSolstice2023_ZH-CN4450201916_1920x1080_2023-12-22.jpg)|![](./images/2023/12/21/LjubljanaLights_ZH-CN3179297953_1920x1080_2023-12-21.jpg)2023/12/21 [download](./images/2023/12/21/LjubljanaLights_ZH-CN3179297953_1920x1080_2023-12-21.jpg)|![](./images/2023/12/20/ValGardenaItaly_ZH-CN2405437494_1920x1080_2023-12-20.jpg)2023/12/20 [download](./images/2023/12/20/ValGardenaItaly_ZH-CN2405437494_1920x1080_2023-12-20.jpg)|
