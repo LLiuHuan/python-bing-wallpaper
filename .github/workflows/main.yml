@@ -2,7 +2,7 @@ name: update-bing-walpaper
 
 on:
   schedule:
-    - cron: '30 0 * * *'
+    - cron: '0 1 * * *'
   push:
     branches: [ master ]
 
@@ -19,18 +19,20 @@ jobs:
           cache: 'pip'
           python-version: 3.7
           token: ${{ github.token }} # optional, default is ${{ github.token }}
+
       - name: pip install
         run: |
           pip install -r requirements.txt
 
       - name: Download
         run: |
+          echo $(date "+%Y-%m-%d %H:%M:%S") > update_time.txt
           python main.py
 
       - name: Cmmit files
         run: |
-          git config --global user.email "184555556@qq.com"
-          git config --global user.name "LLiuHuan"
+          git config --global user.email github-actions
+          git config --global user.name github-actions@github.com
           git add -A
           git commit --allow-empty -m "`date  "+%B %d, %Y🎉"`"
           git push origin master

@@ -2,6 +2,7 @@
 import json
 import os
 import re
+import time
 from datetime import datetime
 
 import requests
@@ -12,6 +13,10 @@ from fileUtils import writeToReadme
 
 def main():
     data = bing_image.get_bing_image()
+    if not data:
+        # 休眠 1 分钟后再次执行main函数
+        time.sleep(60)
+        return main()
     date = datetime.strptime(data.get('date'), '%Y-%m-%d')
 
     image_folder = './images'
